@@ -24,8 +24,8 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title
 12/10/2017 | 01:43:24 | bit.ly/35EOseG | The Room - Commentary Track (Mike, Jay, Rich)
 03/13/2018 | 02:01:29 | bit.ly/32WCsDI | Justice League Commentary Track (Mike, Jay, Rich)
 04/09/2018 | 00:02:33 | bit.ly/33dPtcb | Justice League Commentary Track! T-Shirts! Back! In! Stock!!! (Mike, Jay)
-07/30/2018 | 01:43:08 | 00000000000000 | Robocop Commentary (Mike, Jay, Rich)
-12/24/2018 | 01:30:41 | 00000000000000 | Jingle All the Way Commentary Track (Mike, Jay, Rich)
-09/20/2019 | 01:24:05 | 00000000000000 | Army of Darkness Commentary Track (Mike, Jay, Rich)
+07/30/2018 | 01:43:08 | bit.ly/3nEUC4q | Robocop Commentary (Mike, Jay, Rich)
+12/24/2018 | 01:30:41 | bit.ly/372WOfN | Jingle All the Way Commentary Track (Mike, Jay, Rich)
+09/20/2019 | 01:24:05 | bit.ly/32T7Rqf | Army of Darkness Commentary Track (Mike, Jay, Rich)
 
 https://redlettermedia.bandcamp.com/audio
