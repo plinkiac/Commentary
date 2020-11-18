@@ -1,26 +1,27 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript | title
 
 02/10/2012 | 02:15:46 | bit.ly/2UBIzZl | Mr. Plinkett's Phantom Commentary Ful
-08/04/2012 | 02:00:17 | -------------- | Mr. Plinkett's Star Wars Episode 4: A New Hope Commentary
-03/04/2013 | 01:42:43 | -------------- | Plinkett's Star Trek 5: The Final Frontier Commentary
-01/22/2014 | 01:33:13 | -------------- | Alien Vs Predator Half in the Bag Commentary Track
-01/25/2014 | 01:36:13 | -------------- | Samurai Cop Commentary Track - Half in the Bag
-03/12/2014 | 01:44:19 | -------------- | Ghostbusters 2 - Half in the Bag Commentary Track
-10/15/2014 | 01:30:25 | -------------- | Halloween - Half in the Bag Commentary Track
-03/14/2015 | 01:57:28 | -------------- | Alien (1979) Commentary Track
-05/18/2015 | 01:47:13 | -------------- | The Terminator Commentary Track
-06/15/2015 | 02:05:00 | -------------- | Jurassic Park Commentary Track
-08/16/2015 | 02:03:01 | -------------- | Batman and Robin Commentary Track
-10/17/2015 | 01:32:07 | -------------- | A Nightmare on Elm Street Commentary Track
-10/25/2015 | 02:12:46 | -------------- | Return of the Jedi Commentary Track
-01/12/2016 | 01:42:12 | -------------- | Space Cop commentary
-04/20/2016 | 01:46:58 | -------------- | Masters of the Universe Commentary Track
-11/21/2016 | 01:47:12 | -------------- | Gremlins (1984) Commentary Track
-04/28/2017 | 02:07:38 | -------------- | Star Wars: Rogue One: A Star Wars Story Commentary Track
-12/10/2017 | 01:43:24 | -------------- | The Room - Commentary Track
-03/13/2018 | 02:01:29 | -------------- | Justice League Commentary Track
-07/30/2018 | 01:43:08 | -------------- | Robocop Commentary
-12/24/2018 | 01:30:41 | -------------- | Jingle All the Way Commentary Track
-09/20/2019 | 01:24:05 | -------------- | Army of Darkness Commentary Track
+08/04/2012 | 02:00:17 | bit.ly/35FvioO | Mr. Plinkett's Star Wars Episode 4: A New Hope Commentary
+03/04/2013 | 01:42:43 | bit.ly/3f9q87O | Plinkett's Star Trek 5: The Final Frontier Commentary
+01/22/2014 | 01:33:13 | bit.ly/2IPpPTM | Alien Vs Predator Half in the Bag Commentary Track
+01/24/2014 | 00:01:53 | bit.ly/32WVycy | Red Letter Media Updates: New Commentary Tracks and more!
+01/25/2014 | 01:36:13 | bit.ly/3pBJEi5 | Samurai Cop Commentary Track - Half in the Bag
+03/12/2014 | 01:44:19 | 00000000000000 | Ghostbusters 2 - Half in the Bag Commentary Track
+10/15/2014 | 01:30:25 | 00000000000000 | Halloween - Half in the Bag Commentary Track
+03/14/2015 | 01:57:28 | 00000000000000 | Alien (1979) Commentary Track
+05/18/2015 | 01:47:13 | 00000000000000 | The Terminator Commentary Track
+06/15/2015 | 02:05:00 | 00000000000000 | Jurassic Park Commentary Track
+08/16/2015 | 02:03:01 | 00000000000000 | Batman and Robin Commentary Track
+10/17/2015 | 01:32:07 | 00000000000000 | A Nightmare on Elm Street Commentary Track
+10/25/2015 | 02:12:46 | 00000000000000 | Return of the Jedi Commentary Track
+01/12/2016 | 01:42:12 | 00000000000000 | Space Cop commentary
+04/20/2016 | 01:46:58 | 00000000000000 | Masters of the Universe Commentary Track
+11/21/2016 | 01:47:12 | 00000000000000 | Gremlins (1984) Commentary Track
+04/28/2017 | 02:07:38 | 00000000000000 | Star Wars: Rogue One: A Star Wars Story Commentary Track
+12/10/2017 | 01:43:24 | 00000000000000 | The Room - Commentary Track
+03/13/2018 | 02:01:29 | 00000000000000 | Justice League Commentary Track
+07/30/2018 | 01:43:08 | 00000000000000 | Robocop Commentary
+12/24/2018 | 01:30:41 | 00000000000000 | Jingle All the Way Commentary Track
+09/20/2019 | 01:24:05 | 00000000000000 | Army of Darkness Commentary Track
 
 https://redlettermedia.bandcamp.com/audio
