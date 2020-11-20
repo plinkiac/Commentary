@@ -1,4 +1,4 @@
-mm/dd/yyyy | hh:mm:ss | x → transcript | title
+mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 
 02/10/2012 | 02:15:46 | bit.ly/2UBIzZl | Mr. Plinkett's Phantom Commentary Full (Mike)
 08/04/2012 | 02:00:17 | bit.ly/32YamYt | Mr. Plinkett's Star Wars Episode 4: A New Hope Commentary (Mike)
